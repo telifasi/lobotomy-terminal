@@ -1,0 +1,14 @@
+{
+  "display_name": "脑叶公司终端",
+  "loading_order": 100,
+  "requires": [],
+  "optional": [],
+  "js": "index.js",
+  "css": "style.css",
+  "author": "icy",
+  "version": "0.1.0",
+  "homePage": "",
+  "hooks": {
+    "activate": "init"
+  }
+}
